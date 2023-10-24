@@ -1,10 +1,7 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Pawan Sirsat 👋
 
 ## About Me
-- 🌱 I'm a [Your Profession or Interests].
-- 💼 Currently working as [Your Job Title].
-- 🎓 Graduated from [Your University].
-- 😄 Pronouns: [Your Pronouns].
+- 🌱 I'm a Programmer.
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourusername)
