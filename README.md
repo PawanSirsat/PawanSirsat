@@ -14,9 +14,11 @@
 ## Languages and Tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat)
 
-## My Projects
-- [Portfolio](https://pawansirsat.github.io/Portfolio-Website/): My Portfolio Website is a personal website that serves as a showcase of my skills, projects, and professional information. This repository contains the source code and assets for the website.
+## My Portfolio
+[![Portfolio](https://img.shields.io/badge/-Website-FF5722?style=for-the-badge)](https://pawansirsat.github.io/Portfolio-Website/)
 
-Feel free to explore my repositories for more projects and contributions.
+: My Portfolio Website is a personal website that serves as a showcase of my skills, projects, and professional information. This repository contains the source code and assets for the website.
+
+You can explore my repositories for more projects and contributions.
 
 Let's connect and collaborate on exciting projects together! 😄
