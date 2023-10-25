@@ -23,9 +23,6 @@ Hey there, I'm Pawan Sirsat, and I'm thrilled to connect with you. 👋
     </div>
 </div>
 
-## My Portfolio
-[![Portfolio](https://img.shields.io/badge/-Website-FF5722?style=for-the-badge)](https://pawansirsat.github.io/Portfolio-Website/)
-
 ## Dive into My Portfolio
 📂 [Portfolio](https://pawansirsat.github.io/Portfolio-Website/) - My portfolio website is a visual masterpiece showcasing my skills and projects.
 
