@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge)](mailto:youremail@example.com)
 
 ## GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)](https://github.com/PawanSirsat)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true&hide_border=true)](https://github.com/PawanSirsat)
 
 ## Languages and Tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
