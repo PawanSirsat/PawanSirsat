@@ -11,7 +11,7 @@
 
 ## GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true&hide_border=true)](https://github.com/PawanSirsat)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanSirsat&hide=contribs,prs)
 ## Languages and Tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
 
