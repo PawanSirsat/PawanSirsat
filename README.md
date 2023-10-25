@@ -12,21 +12,10 @@ Hey there, I'm Pawan Sirsat, and I'm thrilled to connect with you. 👋
 📧 [Email](mailto:p1.sirsat1998@gmail.com) - Feel free to drop me a message!
 
 ## Explore My GitHub World
-
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
-        <div style="margin: 10px;">
-            📈 GitHub Stats
-            [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true&hide_border=true)](https://github.com/PawanSirsat)
-        </div>
-    </div>
-    <div style="flex: 1;">
-        <div style="margin: 10px;">
-            🚀 Languages and Tools
-            ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat)
-        </div>
-    </div>
-</div>
+## 📈GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true&hide_border=true)](https://github.com/PawanSirsat)
+## 🚀Languages and Tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat)
 
 ## Dive into My Portfolio
 📂 [Portfolio](https://pawansirsat.github.io/Portfolio-Website/) - My portfolio website is a visual masterpiece showcasing my skills and projects.
