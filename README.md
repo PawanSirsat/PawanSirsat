@@ -11,7 +11,7 @@ Hey there, I'm Pawan Sirsat, and I'm thrilled to connect with you. 👋
 
 📧 [Email](mailto:p1.sirsat1998@gmail.com) - Feel free to drop me a message!
 
-##📈 GitHub Stats
+## 📈 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true&hide_border=true)](https://github.com/PawanSirsat)
 ## 🚀Languages and Tools
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat)
