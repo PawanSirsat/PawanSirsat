@@ -11,10 +11,17 @@ Hey there, I'm Pawan Sirsat, and I'm thrilled to connect with you. 👋
 
 📧 [Email](mailto:p1.sirsat1998@gmail.com) - Feel free to drop me a message!
 
-## 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true&hide_border=true)](https://github.com/PawanSirsat)
-## 🚀Languages and Tools
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat)
+## Explore My GitHub World
+<div style="display: flex;">
+    <div style="flex: 1; padding: 10px;">
+        📈 [GitHub Stats](https://github.com/PawanSirsat)
+        [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true&hide_border=true)](https://github.com/PawanSirsat)
+    </div>
+    <div style="flex: 1; padding: 10px;">
+        🚀 [Languages and Tools](https://github.com/PawanSirsat)
+        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat)
+    </div>
+</div>
 
 ## My Portfolio
 [![Portfolio](https://img.shields.io/badge/-Website-FF5722?style=for-the-badge)](https://pawansirsat.github.io/Portfolio-Website/)
