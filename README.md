@@ -1,8 +1,5 @@
 # Hello, I'm Pawan Sirsat 👋
 
-## About Me
-- 🌱 I'm a Programmer.
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pawan-sirsat-72a0ba174/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sirsat_pawan)
