@@ -8,6 +8,10 @@ Hey there, I'm Pawan Sirsat, and I'm thrilled to connect with you. 👋
 [![Website](https://img.shields.io/badge/-Website-FF5722?style=for-the-badge)](https://pawansirsat.github.io/Portfolio-Website/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge)](mailto:p1.sirsat1998@gmail.com)
 
+## Dive into My Portfolio
+📂 [Portfolio](https://pawansirsat.github.io/Portfolio-Website/) - My portfolio website is a visual masterpiece showcasing my skills and projects.
+🔍 Curious about my projects? Explore my repositories and discover exciting collaborations.
+Let's team up and create something amazing! 😄💡
 
 ## Explore My GitHub World
 <div>
@@ -19,9 +23,4 @@ Hey there, I'm Pawan Sirsat, and I'm thrilled to connect with you. 👋
 </a>
 </div>
 
-## Dive into My Portfolio
-📂 [Portfolio](https://pawansirsat.github.io/Portfolio-Website/) - My portfolio website is a visual masterpiece showcasing my skills and projects.
 
-🔍 Curious about my projects? Explore my repositories and discover exciting collaborations.
-
-Let's team up and create something amazing! 😄💡
