@@ -10,10 +10,14 @@ Hey there, I'm Pawan Sirsat, and I'm thrilled to connect with you. 👋
 
 
 ## Explore My GitHub World
-## 📈GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true&hide_border=true)](https://github.com/PawanSirsat)
-## 🚀Languages and Tools
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat)
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=PawanSirsat&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=PawanSirsat&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat&hide=php&theme=tokyonight" />
+</a>
+</div>
 
 ## Dive into My Portfolio
 📂 [Portfolio](https://pawansirsat.github.io/Portfolio-Website/) - My portfolio website is a visual masterpiece showcasing my skills and projects.
