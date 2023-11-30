@@ -23,7 +23,7 @@ Let's team up and create something amazing! 😄💡
 </a>
 </div>
 
-<br>
+<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&theme=dark&hide_border=false)
 
