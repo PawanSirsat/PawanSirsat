@@ -21,9 +21,8 @@ Let's team up and create something amazing! 😄💡
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat&hide=php&theme=tokyonight&count_private=false&layout=compact">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat&hide=php&theme=tokyonight&count_private=false&layout=compact" />
 </a>
-<a style="margin-top: 20px;" href="https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&hide=php&theme=tokyonight" />
-</a>
 </div>
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&hide=php&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&hide=php&theme=tokyonight)
+
 
 
