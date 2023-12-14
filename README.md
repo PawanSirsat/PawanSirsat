@@ -9,7 +9,7 @@ Hey there, I'm Pawan Sirsat, and I'm thrilled to connect with you. 👋
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge)](mailto:p1.sirsat1998@gmail.com)
 
 ## Dive into My Portfolio
-[![Portfolio](https://img.shields.io/badge/-Portfolio-<COLOR>?style=for-the-badge&logo=Portfolio&logoColor=white)](https://p1-sirsat.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white)](https://p1-sirsat.vercel.app/)
 My portfolio website is a visual masterpiece showcasing my skills and projects.
 🔍 Curious about my projects? Explore my repositories and discover exciting collaborations.
 Let's team up and create something amazing! 😄💡
