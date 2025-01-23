@@ -34,8 +34,7 @@ From crafting dynamic web applications to collaborating on cutting-edge projects
 ---
 
 ## 🔥 My Streak Stats  
-[![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanSirsat)](https://github.com/PawanSirsat/github-readme-stats)
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=PawanSirsat)](https://git.io/streak-stats)
 
 💻 Let's code, collaborate, and innovate! Together, we can make a real difference. 😄  
 Feel free to reach out, share ideas, or just say hi! 🚀  
