@@ -34,18 +34,7 @@ From crafting dynamic web applications to collaborating on cutting-edge projects
 ---
 
 ## 🔥 My Streak Stats  
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true" />
-</picture>
-
+[![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PawanSirsat)](https://github.com/PawanSirsat/github-readme-stats)
 ---
 
 💻 Let's code, collaborate, and innovate! Together, we can make a real difference. 😄  
