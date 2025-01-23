@@ -22,11 +22,9 @@ Let's team up and create something amazing! 😄💡
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat&hide=php&theme=tokyonight&count_private=false&layout=compact">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat&hide=php&theme=tokyonight&count_private=false&layout=compact" />
 </a>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&theme=tokyonight&hide_border=false)
 
 </div>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&theme=tokyonight&hide_border=false)
 
 
 
