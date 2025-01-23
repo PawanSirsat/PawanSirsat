@@ -30,11 +30,14 @@ From crafting dynamic web applications to collaborating on cutting-edge projects
 <a href="https://github.com/PawanSirsat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat&layout=compact&theme=transparent" alt="Top Languages" />
 </a>  
-
 ---
 
 ## 🔥 My Streak Stats  
-![PawanSirsat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&theme=vue-dark&hide_border=true)
+
+<a href="https://github.com/PawanSirsat">
+  <img src="![PawanSirsat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&theme=vue-dark&hide_border=true)
+" alt="Top Languages" />
+</a> 
 
 💻 Let's code, collaborate, and innovate! Together, we can make a real difference. 😄  
 Feel free to reach out, share ideas, or just say hi! 🚀  
