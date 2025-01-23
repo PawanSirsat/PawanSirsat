@@ -35,8 +35,7 @@ From crafting dynamic web applications to collaborating on cutting-edge projects
 ## 🔥 My Streak Stats  
 
 <a href="https://github.com/PawanSirsat">
-  <img src="![PawanSirsat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&theme=vue-dark&hide_border=true)
-" alt="Top Languages" />
+![PawanSirsat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&theme=vue-dark&hide_border=true)
 </a> 
 
 💻 Let's code, collaborate, and innovate! Together, we can make a real difference. 😄  
