@@ -15,12 +15,11 @@ My portfolio website is a visual masterpiece showcasing my skills and projects.
 Let's team up and create something amazing! 😄💡
 
 ## Explore My GitHub World
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=PawanSirsat&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=PawanSirsat&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat&hide=php&theme=tokyonight&count_private=false&layout=compact">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat&hide=php&theme=tokyonight&count_private=false&layout=compact" />
+<a href="https://github.com/PawanSirsat/github-stats-transparent">
+
+![](https://raw.githubusercontent.com/PawanSirsat/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/PawanSirsat/github-stats-transparent/output/generated/languages.svg)
+
 </a>
 
 </div>
