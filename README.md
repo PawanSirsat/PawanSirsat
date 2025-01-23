@@ -35,9 +35,16 @@ From crafting dynamic web applications to collaborating on cutting-edge projects
 
 ## 🔥 My Streak Stats  
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PawanSirsat&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=PawanSirsat&theme=default" alt="GitHub Streak Stats" />
-</picture>  
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true" />
+</picture>
 
 ---
 
