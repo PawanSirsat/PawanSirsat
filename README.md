@@ -34,7 +34,7 @@ From crafting dynamic web applications to collaborating on cutting-edge projects
 ---
 
 ## 🔥 My Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=PawanSirsat)](https://git.io/streak-stats)
+![PawanSirsat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&theme=vue-dark&hide_border=true)
 
 💻 Let's code, collaborate, and innovate! Together, we can make a real difference. 😄  
 Feel free to reach out, share ideas, or just say hi! 🚀  
