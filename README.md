@@ -51,13 +51,5 @@ From building dynamic web applications to teaming up on cutting-edge projects, I
 
 ---
 
-## 🔥 Quick Stats Highlights  
-- 🌍 **Repositories**: Contributing to open-source and personal projects with passion.  
-- 💻 **Commits**: A steady flow of code to keep the momentum going!  
-- ⭐ **Stars**: Grateful for the community’s support on my projects.  
-- ⚡ **Current Streak**: Check out my coding consistency above!  
-
----
-
 💻 **Let’s code, collaborate, and innovate!** Together, we can make waves and inspire change. 😄  
 Feel free to reach out, share ideas, or just say hi—I’m always up for a chat! 🚀  
