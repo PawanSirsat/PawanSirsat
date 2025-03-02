@@ -24,27 +24,30 @@ From building dynamic web applications to teaming up on cutting-edge projects, I
 
 ## 📊 My GitHub Stats Spotlight  
 
-<div align="center">
-  <a href="https://github.com/PawanSirsat">
-    <img src="https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true&hide_border=true&theme=dracula&title_color=50C878&text_color=FFFFFF&icon_color=FF5555&count_private=true&hide=prs,issues" alt="GitHub Stats Overview" width="400" />
-  </a>  
-</div>
-
-<div align="center">
-  <a href="https://github.com/PawanSirsat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat&layout=compact&theme=dracula&title_color=50C878&text_color=FFFFFF&hide_border=true&langs_count=8" alt="Top Languages" width="400" />
-  </a>  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&theme=dracula&hide_border=true&ring=FF5555&fire=FF5555&currStreakLabel=50C878" alt="GitHub Streak Stats" width="400" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/PawanSirsat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawanSirsat&repo=your-top-repo&theme=dracula&title_color=50C878&text_color=FFFFFF&icon_color=FF5555&border_radius=10&show_owner=true" alt="Pinned Repository" width="400" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/PawanSirsat">
+        <img src="https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true&hide_border=true&theme=dracula&title_color=50C878&text_color=FFFFFF&icon_color=FF5555&count_private=true&hide=prs,issues" alt="GitHub Stats Overview" width="100%" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PawanSirsat">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat&layout=compact&theme=dracula&title_color=50C878&text_color=FFFFFF&hide_border=true&langs_count=8" alt="Top Languages" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&theme=dracula&hide_border=true&ring=FF5555&fire=FF5555&currStreakLabel=50C878" alt="GitHub Streak Stats" width="100%" />
+    </td>
+    <td>
+      <a href="https://github.com/PawanSirsat">
+        <img src="https://github-profile-trophy.vercel.app/?username=PawanSirsat&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -52,4 +55,9 @@ From building dynamic web applications to teaming up on cutting-edge projects, I
 - 🌍 **Repositories**: Contributing to open-source and personal projects with passion.  
 - 💻 **Commits**: A steady flow of code to keep the momentum going!  
 - ⭐ **Stars**: Grateful for the community’s support on my projects.  
-- ⚡ **Current Streak**: Check out my coding consistency above
+- ⚡ **Current Streak**: Check out my coding consistency above!  
+
+---
+
+💻 **Let’s code, collaborate, and innovate!** Together, we can make waves and inspire change. 😄  
+Feel free to reach out, share ideas, or just say hi—I’m always up for a chat! 🚀  
