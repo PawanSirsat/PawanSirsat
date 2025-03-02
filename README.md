@@ -22,26 +22,34 @@ From building dynamic web applications to teaming up on cutting-edge projects, I
 
 ---
 
-## 📊 Explore My GitHub World  
+## 📊 My GitHub Stats Spotlight  
 
 <div align="center">
   <a href="https://github.com/PawanSirsat">
-    <img src="https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true&hide_border=true&theme=dracula&title_color=50C878&text_color=FFFFFF&icon_color=FF5555" alt="GitHub Stats Overview" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=PawanSirsat&show_icons=true&hide_border=true&theme=dracula&title_color=50C878&text_color=FFFFFF&icon_color=FF5555&count_private=true&hide=prs,issues" alt="GitHub Stats Overview" width="400" />
   </a>  
+</div>
+
+<div align="center">
   <a href="https://github.com/PawanSirsat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat&layout=compact&theme=dracula&title_color=50C878&text_color=FFFFFF&hide_border=true" alt="Top Languages" width="40%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanSirsat&layout=compact&theme=dracula&title_color=50C878&text_color=FFFFFF&hide_border=true&langs_count=8" alt="Top Languages" width="400" />
   </a>  
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&theme=dracula&hide_border=true&ring=FF5555&fire=FF5555&currStreakLabel=50C878" alt="GitHub Streak Stats" width="400" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/PawanSirsat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PawanSirsat&repo=your-top-repo&theme=dracula&title_color=50C878&text_color=FFFFFF&icon_color=FF5555&border_radius=10&show_owner=true" alt="Pinned Repository" width="400" />
+  </a>
 </div>
 
 ---
 
-## 🔥 My Streak Stats  
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&theme=dracula&hide_border=true&ring=FF5555&fire=FF5555&currStreakLabel=50C878" alt="GitHub Streak Stats" />
-</div>
-
----
-
-💻 **Let’s code, collaborate, and innovate!** Together, we can make waves and inspire change. 😄  
-Feel free to reach out, share ideas, or just say hi—I’m always up for a chat! 🚀  
+## 🔥 Quick Stats Highlights  
+- 🌍 **Repositories**: Contributing to open-source and personal projects with passion.  
+- 💻 **Commits**: A steady flow of code to keep the momentum going!  
+- ⭐ **Stars**: Grateful for the community’s support on my projects.  
+- ⚡ **Current Streak**: Check out my coding consistency above
