@@ -37,16 +37,10 @@ From building dynamic web applications to teaming up on cutting-edge projects, I
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanSirsat&theme=dracula&hide_border=true&ring=FF5555&fire=FF5555&currStreakLabel=50C878" alt="GitHub Streak Stats" width="100%" />
-    </td>
-    <td>
-      <a href="https://github.com/PawanSirsat">
-        <img src="https://github-profile-trophy.vercel.app/?username=PawanSirsat&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-      </a>
-    </td>
-  </tr>
+ ---
+<!--![](https://visitcount.itsvg.in/api?id=PawanSirsat&label=Profile%20Views&pretty=true)-->
+[![wakatime](https://wakatime.com/badge/user/d9eddcfd-8a78-4188-b6d9-6d0af2abf114.svg)](https://wakatime.com/@d9eddcfd-8a78-4188-b6d9-6d0af2abf114)
+
 </table>
 
 ---
